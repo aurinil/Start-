@@ -252,7 +252,7 @@ Produto: ${produto}%0A
 Mensagem: ${mensagem}`;
 
 window.open(
-'https://wa.me/5515999999999?text=' + texto,
+'https://wa.me/551533732418?text=' + texto,
 '_blank'
 );
 }
